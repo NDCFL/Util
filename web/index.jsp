@@ -20,6 +20,8 @@
   <meta name="keywords" content="格式化工具，最简化的工具，支持解析html,js,java,json,sql,xml..,优雅的格式化工具，大气">
   <meta name="description" content="格式化工具为程序员们提供优雅的，html,js,java,json,sql,xml..格式工具,">
   <title>格式化工具</title>
+  <link rel="shortcut icon" href="<%=path%>/static/img/favicon.ico" >
+  <link rel="icon" href="<%=path%>/static/img/favicon.ico">
   <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="<%=path%>/static/js/jquery.3.2.1.js"></script>
   <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
